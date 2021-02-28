@@ -29,4 +29,24 @@ print("Dzielenie: ")
 print(wynik4)
 
 #Zad3
+dodawanie = 1 + 3
+odejmowanie = 6 - 2
+mnozenie = 4 * 4
+dzielenie = 25 / 5
+kwadrat = 7 ** 2
+resztazdzielenia = 70 % 4
+print(dodawanie)
+print(odejmowanie)
+print(mnozenie)
+print(dzielenie)
+print(kwadrat)
+print(resztazdzielenia)
 
+#Zad4
+
+#Zad5
+imie = "DAWID"
+nazwisko = "WOLNIAK"
+x = imie.capitalize()
+y = nazwisko.capitalize()
+print(x + " " + y)
