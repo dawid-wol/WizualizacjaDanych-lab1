@@ -1,6 +1,6 @@
 #Zad1
 calkowita1 = 12
-calkowita2 = 4
+calkowita2 = int(5)
 rzeczywista1 = 4.5
 rzeczywista2 = float(48)
 napis1 = "Latajacy cyrk Monthy Pythona"
@@ -50,3 +50,29 @@ nazwisko = "WOLNIAK"
 x = imie.capitalize()
 y = nazwisko.capitalize()
 print(x + " " + y)
+
+#Zad6
+piosenka = "la la la la cos tam la la la"
+z = piosenka.count("la")
+print(z)
+
+#Zad7
+lancuszek = "abcdefghijklmnoprstuwxyz"
+print(lancuszek[1])
+print(lancuszek[23])
+
+#Zad8
+a = piosenka.split()
+print(a)
+
+#Zad9
+ptak = "ianosihu134i29436jksgdp9g232"
+kot = float(91.43)
+pies = hex(15)
+print(ptak)
+print(kot)
+print(pies)
+
+
+
+
